@@ -1,0 +1,4 @@
+book_store/__pycache__/
+book_outlet/__pycache__/
+book_outlet/migrations/__pycache__/
+*.pyc
